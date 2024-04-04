@@ -1,0 +1,1 @@
+SELECT ROUND(SUM(rating)/COUNT(*), 4) as global_rating FROM pizzeria;

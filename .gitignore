@@ -1,0 +1,6 @@
+**/.vscode/
+rev
+Qt
+.DS_Store
+.git
+commit.sh
